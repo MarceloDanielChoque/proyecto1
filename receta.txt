@@ -1,0 +1,6 @@
+Esto es una receta de prueba.
+
+Probaremos:
+    - git add
+    - git commit
+    - git push   
