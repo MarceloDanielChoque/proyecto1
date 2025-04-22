@@ -1,6 +1,7 @@
 Esto es una receta de prueba.
 
-Probaremos:
-    - git add
-    - git commit
-    - git push   
+ Cocina 200 g de pasta (como fettuccine o penne) en agua con sal hasta que esté al dente. 
+ Mientras tanto, en una sartén grande, sofríe 2 dientes de ajo picados y media cebolla en julianas
+ Con una cucharada de mantequilla y un chorrito de aceite de oliva. 
+ Agrega 250 g de champiñones frescos en láminas y cocina a fuego medio hasta que estén dorados. 
+ Añade sal, pimienta y una pizca de nuez moscada al gusto.
